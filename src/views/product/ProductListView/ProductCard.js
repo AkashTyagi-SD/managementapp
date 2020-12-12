@@ -85,7 +85,7 @@ const ProductCard = ({ className, product, ...rest }) => {
               display="inline"
               variant="body2"
             >
-              Updated 2hr ago
+              Updated 3hr ago
             </Typography>
           </Grid>
           <Grid
